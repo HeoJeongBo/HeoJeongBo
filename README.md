@@ -1,12 +1,12 @@
 ### Hi there 👋  
 #
-<a href="#"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=React" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Javascript-000000?style=flat&logo=Javascript" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Typescript-000000?style=flat&logo=Typescript" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-React-666666?style=flat&logo=React" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Javascript-666666?style=flat&logo=Javascript" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Typescript-666666?style=flat&logo=Typescript" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Flutter-666666?style=flat&logo=Flutter" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Python-666666?style=flat&logo=Python" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-Django-666666?style=flat&logo=Django" /></a>
 
 #
 
