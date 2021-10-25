@@ -14,7 +14,7 @@
 #
 
 ## Front Developer *HeoJeongBo*
-* Intereset in React, Typescript, Flutter
+* Interested in React, Typescript, Flutter
 
 * Solve Algorithm with Python
 
