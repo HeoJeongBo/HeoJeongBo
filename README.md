@@ -17,7 +17,9 @@
 
 * Hope to Full Stack Engineer   
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/HeoJeongBo?pet-id=1" width="1000" height="120"/>
+</a>
 
 #
 - 🔭 I’m previous working on DanbiEducation since 2019.10 ~ 2022.02 (FrontEnd Developer)
