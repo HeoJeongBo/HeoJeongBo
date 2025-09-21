@@ -14,6 +14,6 @@
 - 💻 Working on Merakiplace since 2023.06 ~ 2023.12 (FrontEnd Developer)
 - 😶‍🌫️ Working on HypenCompany since 2024.03 ~ 2024.06 (FrontEnd Developer)
 - 🤧 Working on Bloomingbit since 2024.06 ~ 2025.05 (FrontEnd Developer)
-- 🧑🏻‍💻 Working on Specter since 2024.05 ~ current (FrontEnd Developer)
+- 🧑🏻‍💻 Working on Specter since 2025.05 ~ current (FrontEnd Developer)
 
 - 📫 How to reach me: <heojungbo@gmail.com>   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:heojungbo@gmail.com)
